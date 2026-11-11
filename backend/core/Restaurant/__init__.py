@@ -1,0 +1,1 @@
+# Empty - core is a Django app
